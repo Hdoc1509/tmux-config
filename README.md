@@ -22,6 +22,12 @@ git clone https://github.com/edouard-lopez/tmux-tomorrow.git ~/.tmux/themes
 source-file ~/.config/tmux/tmux.conf
 ```
 
+- Or create a symlink from `~/.tmux.conf` to `~/.config/tmux/tmux.conf` file:
+
+```sh
+ln -s ~/.config/tmux/tmux.conf ~/.tmux.conf
+```
+
 ## Key bindings
 
 The default prefix is `Ctrl-Space`.
