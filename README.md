@@ -1,3 +1,10 @@
+# Archived
+
+My initial need of `tmux` was terminal splitting, that way I switched to `wezterm`
+which has that feature and other really good ones.
+
+My `wezterm` config is available at https://github.com/Hdoc1509/wezterm-config
+
 # tmux-config
 
 This repository hosts my minimalist configuration for `tmux`.
